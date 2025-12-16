@@ -1,6 +1,6 @@
 # Basic SQL Concepts: Theory + Examples
 
-This guide covers **CREATE TABLE**, **ALTER TABLE**, **SQL data types**, and **database migrations (up & down)** with clear theory and practical examples. This is written for beginners practicing SQL (SQLite/PostgreSQL style).
+This guide covers **CREATE TABLE**, **ALTER TABLE**, **SQL data types**, and **database migrations (up & down)** with clear theory and practical examples. 
 
 ---
 

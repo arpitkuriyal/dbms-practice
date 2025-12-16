@@ -1,0 +1,5 @@
+CREATE TABLE orders (
+order_id INTEGER PRIMARY KEY,
+status TEXT DEFAULT 'pending',
+created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
