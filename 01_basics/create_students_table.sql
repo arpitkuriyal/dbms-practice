@@ -4,4 +4,4 @@ CREATE TABLE students(
   age INTEGER,
   email TEXT UNIQUE,
   created_at TIMESTAMP
-)
+);
