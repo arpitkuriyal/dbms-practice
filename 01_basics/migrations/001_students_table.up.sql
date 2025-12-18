@@ -1,2 +1,2 @@
 ALTER TABLE students
-ADD COLUMN phone INTEGER;
+ADD COLUMN phone BIGINT;

@@ -1,7 +1,8 @@
+-- Active: 1765820947126@@127.0.0.1@5432@dbms_practice
 CREATE TABLE students(
   id INTEGER PRIMARY KEY,
   name TEXT NOT NULL,
   age INTEGER,
   email TEXT UNIQUE,
-  created_at TIMESTAMP
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
